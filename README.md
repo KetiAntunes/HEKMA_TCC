@@ -1,2 +1,2 @@
-# TCC-Trabalho_de_Conclusao_de_Curso
+# TCC - Trabalho de Conclusão de Curso
 Hekma: Plataforma Web de Apoio á Jovens e Iniciantes na Área de Tecnologia da Informação 
